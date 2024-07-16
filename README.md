@@ -1,4 +1,5 @@
 # ArchaSingh-demo
-This will be my second repository. 
+
+This will be my second repository.
 <br>
-Owner: Archa Singh {Btech Graduate}
+Owner: Archa Singh {Btech Graduate, '24}
